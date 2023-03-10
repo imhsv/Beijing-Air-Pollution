@@ -23,6 +23,7 @@ The company calculates pollution using traditional or manual methods, so it need
 > Because there was no machine learning model for this problem in the company, you don’t have a quantifiable win condition. You need to build the best possible model.
 
 # Data 
+https://github.com/imhsv/Beijing-Air-Pollution/blob/main/data
 Train Set: 
 > The train set contains 403776 rows and 17 columns.
 > The train set contains data from 2013-16.
