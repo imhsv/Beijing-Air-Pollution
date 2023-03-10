@@ -10,6 +10,7 @@ Airifi-
 >Beijing’s pollution authority has collected data for the past 5 years and the data has been passed on to client by the government of China.
 The company calculates pollution using traditional or manual methods, so it needs a model to do the long process.
 
+
 # Currently, Beijing is suffering from:
 > China is notorious for being a major polluter. Its economic growth in the past three decades has been the fastest among major nations, which is the main factor in > > why China has extensive air pollution.
 > China’s Environmental Sustainability Index is ranked near the bottom among countries worldwide.
@@ -23,7 +24,7 @@ The company calculates pollution using traditional or manual methods, so it need
 > Because there was no machine learning model for this problem in the company, you don’t have a quantifiable win condition. You need to build the best possible model.
 
 # Data 
-https://github.com/imhsv/Beijing-Air-Pollution/blob/main/data
+[Data](https://github.com/imhsv/Beijing-Air-Pollution/blob/main/data)
 
 Train Set: 
 > The train set contains 403776 rows and 17 columns.
