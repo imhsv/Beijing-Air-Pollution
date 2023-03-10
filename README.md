@@ -38,3 +38,6 @@ Test Set:
 > The test set contains data for 2017.
 > The test set doesn’t contain the PM2.5 column.
 > PM2.5 needs to be predicted for the test set
+
+# Analysis and Model Evaluation
+ It is done in notebooks.
