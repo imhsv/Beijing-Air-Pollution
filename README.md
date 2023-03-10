@@ -2,7 +2,8 @@
 # Introduction
 This project has applied Machine Learning and Deep Learning techniques to analyse and predict the Air Quality in Beijing. Our task is to predict one hour into the future the concentration level of air pollutant PM2.5.
 # Company 
-Airifi-
+Airifi-  ![image](https://user-images.githubusercontent.com/114226899/224392265-f6ab16cc-e757-43a2-890c-e3022aa31e31.png)
+
 > One of the leading Global pollution controller organizations.
 > The company is working its way for the betterment of the society by using advanced technologies to purify the air by removing harmful particles from the atmosphere.
 # Current Scenario
@@ -42,3 +43,7 @@ Test Set:
 # Analysis and Model Evaluation
  Its all works done in notebooks.
  [Data Science](https://github.com/imhsv/Beijing-Air-Pollution/blob/main/Untitled.ipynb)
+ 
+ ## Software
+
+All the analysis are done by using python 3.6 and others usefull libraries .
