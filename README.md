@@ -11,7 +11,7 @@ Airifi-
 The company calculates pollution using traditional or manual methods, so it needs a model to do the long process.
 
 # Currently, Beijing is suffering from:
-> China is notorious for being a major polluter. Its economic growth in the past three decades has been the fastest among major nations, which is the main factor in why > China has extensive air pollution.
+> China is notorious for being a major polluter. Its economic growth in the past three decades has been the fastest among major nations, which is the main factor in > > why China has extensive air pollution.
 > China’s Environmental Sustainability Index is ranked near the bottom among countries worldwide.
 > Air Pollution in Beijing is mainly dominated by coal combustion and vehicles running on the roads.
 > With this amplified wealth, individuals are more capable of affording motor vehicles. The number of motor vehicles on Beijing’s roads has doubled to 3.3 million with nearly 1200 added each day.
