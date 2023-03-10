@@ -10,12 +10,14 @@ Airifi-
 >Beijing’s pollution authority has collected data for the past 5 years and the data has been passed on to client by the government of China.
 The company calculates pollution using traditional or manual methods, so it needs a model to do the long process.
 
+![image](https://user-images.githubusercontent.com/114226899/224390105-d83f70d0-d907-4572-9be9-e8bd7d004cf5.png)
 
 # Currently, Beijing is suffering from:
 > China is notorious for being a major polluter. Its economic growth in the past three decades has been the fastest among major nations, which is the main factor in > > why China has extensive air pollution.
 > China’s Environmental Sustainability Index is ranked near the bottom among countries worldwide.
 > Air Pollution in Beijing is mainly dominated by coal combustion and vehicles running on the roads.
 > With this amplified wealth, individuals are more capable of affording motor vehicles. The number of motor vehicles on Beijing’s roads has doubled to 3.3 million with nearly 1200 added each day.
+
 
 # MY Role
 > You are given a dataset of the past few years of the air quality (2013-2017).
