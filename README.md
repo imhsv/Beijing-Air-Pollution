@@ -23,14 +23,13 @@ The company calculates pollution using traditional or manual methods, so it need
 > Because there was no machine learning model for this problem in the company, you don’t have a quantifiable win condition. You need to build the best possible model.
 
 # Data 
- The time period is from  2013 to  2017.
 Train Set: 
-The train set contains 403776 rows and 17 columns.
-The train set contains data from 2013-16.
-The column PM2.5 is the target variable.
+> The train set contains 403776 rows and 17 columns.
+> The train set contains data from 2013-16.
+> The column PM2.5 is the target variable.
 
 Test Set:
-The test set contains 16728 rows and 16 columns.
-The test set contains data for 2017.
-The test set doesn’t contain the PM2.5 column.
-PM2.5 needs to be predicted for the test set
+> The test set contains 16728 rows and 16 columns.
+> The test set contains data for 2017.
+> The test set doesn’t contain the PM2.5 column.
+> PM2.5 needs to be predicted for the test set
