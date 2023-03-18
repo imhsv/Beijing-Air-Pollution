@@ -21,9 +21,9 @@ The company calculates pollution using traditional or manual methods, so it need
 
 
 # MY Role
-> You are given a dataset of the past few years of the air quality (2013-2017).
+>  The dataset contain of the past few years of the air quality (2013-2017).
 > The data is from the 12 stations of Beijing that have been thoroughly observed.
-> Your task is to build a regression model using the dataset.
+> The task is to build a regression model using the dataset.
 > Because there was no machine learning model for this problem in the company, you don’t have a quantifiable win condition. You need to build the best possible model.
 
 # Data 
