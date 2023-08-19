@@ -1,6 +1,6 @@
 # Beijing-Air-Quality
 # Introduction
-"Forecasting a Breath of Fresh Air: Predicting PM2.5 Air Pollution in Beijing with Machine learning"
+"Forecasting a Breath of Fresh Air: Predicting PM2.5 Air Pollution in Beijing with Machine Learning"
 
 Our Mission:
 We're using cutting-edge Machine Learning and Deep Learning techniques to predict Beijing's air quality, specifically targeting PM2.5 pollution levels, one hour into the future.
@@ -37,7 +37,7 @@ The company calculates pollution using traditional or manual methods, so it need
 
 
 # MY Role
->  The dataset contain of the past few years of the air quality (2013-2017).
+>  The dataset contains the past few years of air quality (2013-2017).
 > The data is from the 12 stations of Beijing that have been thoroughly observed.
 > The task is to build a regression model using the dataset.
 > Only the need to build the best possible model.
@@ -57,9 +57,9 @@ Test Set:
 > PM2.5 needs to be predicted for the test set
 
 # Analysis and Model Evaluation
- The all works done in notebooks.
+ Theall workss done in notebooks.
  [Data Science](https://github.com/imhsv/Beijing-Air-Pollution/blob/main/Untitled.ipynb)
  
  ## Software
 
-All the analysis are done by using python 3.6 and others usefull libraries .
+All the analyses are done by using Python 3.6 and other useful libraries .
