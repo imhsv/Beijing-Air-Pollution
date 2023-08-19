@@ -1,14 +1,30 @@
 # Beijing-Air-Quality
 # Introduction
-This project has applied Machine Learning and Deep Learning techniques to analyse and predict the Air Quality in Beijing. Our task is to predict one hour into the future the concentration level of air pollutant PM2.5.
+"Forecasting a Breath of Fresh Air: Predicting PM2.5 Air Pollution in Beijing with Machine learning"
+
+Our Mission:
+We're using cutting-edge Machine Learning and Deep Learning techniques to predict Beijing's air quality, specifically targeting PM2.5 pollution levels, one hour into the future.
+
+Why It Matters:
+Clean air is essential for your health and well-being. Our accurate predictions empower you to make informed decisions about outdoor activities, commuting, and more.
+
+How We Do It:
+We gather vast historical and real-time data, then employ Deep Learning models to analyze weather, traffic, and more, ensuring you have up-to-the-minute air quality information.
+
+Join the Movement:
+Be part of the solution. Use our predictions to protect yourself and contribute to a cleaner Beijing.
+
+Conclusion:
+Breathe easy, Beijing. We're revolutionizing air quality prediction for a healthier, brighter future. 
+
 # Company 
 Airifi-  ![image](https://user-images.githubusercontent.com/114226899/224392265-f6ab16cc-e757-43a2-890c-e3022aa31e31.png)
 
 > One of the leading Global pollution controller organizations.
-> The company is working its way for the betterment of the society by using advanced technologies to purify the air by removing harmful particles from the atmosphere.
+> The company is working its way for the betterment of society by using advanced technologies to purify the air by removing harmful particles from the atmosphere.
 # Current Scenario
->As we know in recent years the pollution emitted per day has increased drastically, countries all around the world are taking up actions in order to tackle the rapid increase in pollution to avoid global warming.
->Beijing’s pollution authority has collected data for the past 5 years and the data has been passed on to client by the government of China.
+>As we know in recent years the pollution emitted per day has increased drastically, countries all around the world are taking up action in order to tackle the rapid increase in pollution to avoid global warming.
+>Beijing’s pollution authority has collected data for the past 5 years and the data has been passed on to clients by the government of China.
 The company calculates pollution using traditional or manual methods, so it needs a model to do the long process.
 
 ![image](https://user-images.githubusercontent.com/114226899/224390105-d83f70d0-d907-4572-9be9-e8bd7d004cf5.png)
